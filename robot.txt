@@ -32,4 +32,8 @@ Disallow: /
 User-agent: *
 Disallow: /
 Crawl-delay: 5
-Disallow: /cgi-bin/
+Disallow: /
+Disallow: /index.html
+Disallow: /about.html
+Disallow: /log.html
+
