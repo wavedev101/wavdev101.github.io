@@ -5,10 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wavedev101 - Page</title>
     <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.8/dist/htmx.min.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body class="content">
     <h1>Hello dear site reader</h1>
     <p>This is my lil corner on the internet i'll update more soon</p>
     <button hx-get="/about.html"    hx-target="body">about</button>
+    <button hx-get="/log.html" hx-target="#logcon">Site info</button>
+    <div id="logcon"></div>
 </body>
 </html>
