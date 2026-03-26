@@ -11,4 +11,7 @@
   https://nohello.net/sv/
 
   just send me the thing
-  and allso dont be dickhead 
+  and also dont be dickhead
+
+  - allso mail me with this address please
+    the addres is wavedev101@proton.me
