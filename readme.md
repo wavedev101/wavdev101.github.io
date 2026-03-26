@@ -1,6 +1,7 @@
 # Hello
 
 - wellcome to this place on the internet
+- i'm cool 
 
   # stuff i do
    i do gamedev and youtube sometimes and i play alot off minecraft
